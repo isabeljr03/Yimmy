@@ -1,6 +1,7 @@
 # CS 411 Database Systems Project Spring 2018
 
 *https://www.yimmplayground.web.illinois.edu*
+(Secure certificate will be live until 10/29/2019)
 
 **Partners:**  
 Michelle Giang giang2@illinois.edu  
